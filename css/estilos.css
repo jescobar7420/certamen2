@@ -1,0 +1,43 @@
+#iconoPersona {
+  font-size: 24px;
+}
+
+#iconoPlus {
+  font-size: 24px;
+}
+
+label, span {
+  font-weight: bold;
+}
+
+h5 {
+  background-color: #0D6EFD;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+#formulario {
+  width: 40%;
+}
+
+#formularioNotas {
+  width: 40%;
+}
+
+#botonActualizar {
+  margin-top: 10px;
+}
+
+#primeraFila th {
+  font-weight: bold;
+}
+
+#tabla {
+  width: 60%;
+}
+
+#botonAgregar {
+  margin-top: 10px;
+}
+/*# sourceMappingURL=estilos.css.map */
